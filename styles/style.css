@@ -547,6 +547,9 @@ body {
   .main__list {
     gap: 30px;
   }
+  .main__img{
+    margin-top: 50px;
+  }
   .faq,
   .cards,
   .companies {
